@@ -12,7 +12,7 @@ If this code is useful in your research, you are encouraged to cite our academic
 @inproceedings{zhao2024federated,
   title={Federated PAC-Bayesian Learning on Non-IID Data},
   author={Zhao, Zihao and Liu, Yang and Ding, Wenbo and Zhang, Xiao-Ping},
-  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   pages={1--5},
   year={2024},
   organization={IEEE}
